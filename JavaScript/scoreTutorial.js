@@ -1,5 +1,5 @@
 let gameCanvas = document.getElementById('theCanvas');
-gameCanvas.height = '750';
+gameCanvas.height = '700';
 gameCanvas.width = '750';
 
 let game = gameCanvas.getContext('2d');
