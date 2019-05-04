@@ -3,11 +3,20 @@
 	margin:0;
 }
 
+body{
+	background:lightgreen;
+}
+
+#gameTitle{
+	margin-left:35%;
+}
+
 #theCanvas{
-	height:750px;
-	width:700px;
+	height:500px;
+	width:800px;
 	display: block;
 	margin-top: 50px;
+	margin-bottom: 50px;
 	margin-left: 200px;
 	background:black;
 }
